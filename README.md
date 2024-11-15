@@ -1,0 +1,4 @@
+LINUX-ANDROID ARM-CPU
+JH 7110 ARM CPU
+MURAT IRKAN REFERANS SİSTEM REV.A
+***********************************
